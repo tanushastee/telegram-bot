@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import ReplyKeyboardMarkup
 from aiogram.utils import executor
 
-API_TOKEN = 8607291936:AAEkPU3EPZ9GgJm2gsUL8dBzVwdY4rI7tyA
+API_TOKEN = "8607291936:AAFlYBgzLwzBtsERNScwR5rZb4cHAmnEbUk"
 ADMIN_ID = 5963914350
 
 logging.basicConfig(level=logging.INFO)
